@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/multiple-find-and-replace-in-paragraph/static/css/main.d1b05096.chunk.css",
+    "main.js": "/multiple-find-and-replace-in-paragraph/static/js/main.2e038063.chunk.js",
+    "main.js.map": "/multiple-find-and-replace-in-paragraph/static/js/main.2e038063.chunk.js.map",
+    "runtime-main.js": "/multiple-find-and-replace-in-paragraph/static/js/runtime-main.cbfcd8c8.js",
+    "runtime-main.js.map": "/multiple-find-and-replace-in-paragraph/static/js/runtime-main.cbfcd8c8.js.map",
+    "static/js/2.6607f0cc.chunk.js": "/multiple-find-and-replace-in-paragraph/static/js/2.6607f0cc.chunk.js",
+    "static/js/2.6607f0cc.chunk.js.map": "/multiple-find-and-replace-in-paragraph/static/js/2.6607f0cc.chunk.js.map",
+    "index.html": "/multiple-find-and-replace-in-paragraph/index.html",
+    "precache-manifest.b367a1798f386dba809fe930d62f8844.js": "/multiple-find-and-replace-in-paragraph/precache-manifest.b367a1798f386dba809fe930d62f8844.js",
+    "service-worker.js": "/multiple-find-and-replace-in-paragraph/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/multiple-find-and-replace-in-paragraph/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6607f0cc.chunk.js.LICENSE.txt": "/multiple-find-and-replace-in-paragraph/static/js/2.6607f0cc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/multiple-find-and-replace-in-paragraph/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbfcd8c8.js",
+    "static/js/2.6607f0cc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.2e038063.chunk.js"
+  ]
+}
