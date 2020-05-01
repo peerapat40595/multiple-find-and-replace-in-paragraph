@@ -13,7 +13,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -31,6 +33,12 @@
     ]
   },
   "devDependencies": {
-    "@testing-library/react": "^9.5.0"
-  }
+    "@testing-library/react": "^9.5.0",
+    "gh-pages": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peerapat40595/multiple-find-and-replace-in-paragraph.git"
+  },
+  "homepage": "https://peerapat40595.github.io/multiple-find-and-replace-in-paragraph/"
 }
